@@ -1,3 +1,10 @@
+Primer proyecto desarrollado con SASS (scss) en el cual esta implementado gulp para realizar tareas repetitivas.
+
+archivos ya minificados y listos para produccion
+
+ademas se implementa JS 
+
+------------------------------------------------
 gulp es para poder automatizar tareas repetitivas
 Lo primero es ejecutar npm init para creear el archivo package.json
 
@@ -9,3 +16,8 @@ hay dos tipo de dependencias locales o de proyecto y las de desarrollo
 
 las del proyecto son requeridas en produccion 
 las de desarrollo son requeridas mientras estas desarrollando el sitio ***Para instalar un dependencia de desarrollo npm i --save-dev 
+
+
+
+
+https://elated-mcnulty-88d282.netlify.app/
