@@ -4,6 +4,14 @@ archivos ya minificados y listos para produccion
 
 ademas se implementa JS 
 
+aqui se subio el proyecto completo incluso dependencias que solo se ocupan en dev y no en produccion
+
+carpetas para deployment:
+
+carpeta Build
+carpeta video
+index.html
+
 ------------------------------------------------
 gulp es para poder automatizar tareas repetitivas
 Lo primero es ejecutar npm init para creear el archivo package.json
